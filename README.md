@@ -38,3 +38,15 @@ git clone https://github.com/Naruto-cyber13/Multiple-Linear-Regression-IBM-ML.gi
 cd Multiple-Linear-Regression-IBM-ML
 ```
 ---
+### 2. Run the model
+```
+
+jupyter notebook Multiple-Linear-Regression-v1.ipynb
+```
+---
+
+### ✅ Bonus Tip: Enable GitHub Notebook Viewer
+
+GitHub automatically renders `.ipynb` files. But for better formatting and sharing, you can use:
+- [nbviewer](https://nbviewer.jupyter.org/)
+- Export as HTML and link it in README
