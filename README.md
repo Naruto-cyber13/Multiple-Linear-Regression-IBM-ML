@@ -1,4 +1,5 @@
 # Multiple-Linear-Regression-IBM-ML
+Multiple linear regression model to predict emissions from engine size & fuel consumption
 # Multiple Linear Regression (MLR) in Python 🧠📈
 
 This project demonstrates how to build a Multiple Linear Regression model using **scikit-learn** and visualize it in 3D.
